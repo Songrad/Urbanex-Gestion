@@ -1,0 +1,7 @@
+.hide_form_reservation {
+    display: none;
+}
+
+.display_form_reservation {
+    display: block;
+}
